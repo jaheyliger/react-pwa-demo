@@ -2,7 +2,7 @@ import React from 'react';
 
 const Card = ({ item }) => {
 	return (
-		<div class='card'>
+		<div class='bg-slate-600 p-5 rounded-xl'>
 			<div class='content'>
 				<ol>
 					<li>
